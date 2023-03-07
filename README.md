@@ -7,3 +7,6 @@ Aplicação completa para pizzaria desenvolvida em 3 camadas, durante o curso [P
 * Mobile
   * __React Native__ com Expo e Typescript
   * __AsyncStorage__ para armazenamento de chaves/valores
+
+## :camera_flash: Screenshots
+![](https://github.com/MARINARR92/PizzariaMobile/blob/main/assets/pizzaria.gif)
